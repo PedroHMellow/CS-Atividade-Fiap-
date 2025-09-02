@@ -1,0 +1,14 @@
+C:\Users\israe\OneDrive\Documentos\FIAP\CS-FIAP-CP-main\CS-FIAP-CP-main\Aulas\EX-Aula-4\ExCs\Ex 2 Part 2\bin\Debug\net8.0\Ex 3.exe
+C:\Users\israe\OneDrive\Documentos\FIAP\CS-FIAP-CP-main\CS-FIAP-CP-main\Aulas\EX-Aula-4\ExCs\Ex 2 Part 2\bin\Debug\net8.0\Ex 3.deps.json
+C:\Users\israe\OneDrive\Documentos\FIAP\CS-FIAP-CP-main\CS-FIAP-CP-main\Aulas\EX-Aula-4\ExCs\Ex 2 Part 2\bin\Debug\net8.0\Ex 3.runtimeconfig.json
+C:\Users\israe\OneDrive\Documentos\FIAP\CS-FIAP-CP-main\CS-FIAP-CP-main\Aulas\EX-Aula-4\ExCs\Ex 2 Part 2\bin\Debug\net8.0\Ex 3.dll
+C:\Users\israe\OneDrive\Documentos\FIAP\CS-FIAP-CP-main\CS-FIAP-CP-main\Aulas\EX-Aula-4\ExCs\Ex 2 Part 2\bin\Debug\net8.0\Ex 3.pdb
+C:\Users\israe\OneDrive\Documentos\FIAP\CS-FIAP-CP-main\CS-FIAP-CP-main\Aulas\EX-Aula-4\ExCs\Ex 2 Part 2\obj\Debug\net8.0\Ex 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\israe\OneDrive\Documentos\FIAP\CS-FIAP-CP-main\CS-FIAP-CP-main\Aulas\EX-Aula-4\ExCs\Ex 2 Part 2\obj\Debug\net8.0\Ex 3.AssemblyInfoInputs.cache
+C:\Users\israe\OneDrive\Documentos\FIAP\CS-FIAP-CP-main\CS-FIAP-CP-main\Aulas\EX-Aula-4\ExCs\Ex 2 Part 2\obj\Debug\net8.0\Ex 3.AssemblyInfo.cs
+C:\Users\israe\OneDrive\Documentos\FIAP\CS-FIAP-CP-main\CS-FIAP-CP-main\Aulas\EX-Aula-4\ExCs\Ex 2 Part 2\obj\Debug\net8.0\Ex 3.csproj.CoreCompileInputs.cache
+C:\Users\israe\OneDrive\Documentos\FIAP\CS-FIAP-CP-main\CS-FIAP-CP-main\Aulas\EX-Aula-4\ExCs\Ex 2 Part 2\obj\Debug\net8.0\Ex 3.dll
+C:\Users\israe\OneDrive\Documentos\FIAP\CS-FIAP-CP-main\CS-FIAP-CP-main\Aulas\EX-Aula-4\ExCs\Ex 2 Part 2\obj\Debug\net8.0\refint\Ex 3.dll
+C:\Users\israe\OneDrive\Documentos\FIAP\CS-FIAP-CP-main\CS-FIAP-CP-main\Aulas\EX-Aula-4\ExCs\Ex 2 Part 2\obj\Debug\net8.0\Ex 3.pdb
+C:\Users\israe\OneDrive\Documentos\FIAP\CS-FIAP-CP-main\CS-FIAP-CP-main\Aulas\EX-Aula-4\ExCs\Ex 2 Part 2\obj\Debug\net8.0\Ex 3.genruntimeconfig.cache
+C:\Users\israe\OneDrive\Documentos\FIAP\CS-FIAP-CP-main\CS-FIAP-CP-main\Aulas\EX-Aula-4\ExCs\Ex 2 Part 2\obj\Debug\net8.0\ref\Ex 3.dll
