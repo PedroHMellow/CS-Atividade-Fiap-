@@ -1,0 +1,14 @@
+C:\Users\israe\Downloads\CS-Atividade-Fiap--main\CS-Atividade-Fiap--main\Ex 5\bin\Debug\net8.0\Ex 5.exe
+C:\Users\israe\Downloads\CS-Atividade-Fiap--main\CS-Atividade-Fiap--main\Ex 5\bin\Debug\net8.0\Ex 5.deps.json
+C:\Users\israe\Downloads\CS-Atividade-Fiap--main\CS-Atividade-Fiap--main\Ex 5\bin\Debug\net8.0\Ex 5.runtimeconfig.json
+C:\Users\israe\Downloads\CS-Atividade-Fiap--main\CS-Atividade-Fiap--main\Ex 5\bin\Debug\net8.0\Ex 5.dll
+C:\Users\israe\Downloads\CS-Atividade-Fiap--main\CS-Atividade-Fiap--main\Ex 5\bin\Debug\net8.0\Ex 5.pdb
+C:\Users\israe\Downloads\CS-Atividade-Fiap--main\CS-Atividade-Fiap--main\Ex 5\obj\Debug\net8.0\Ex 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\israe\Downloads\CS-Atividade-Fiap--main\CS-Atividade-Fiap--main\Ex 5\obj\Debug\net8.0\Ex 5.AssemblyInfoInputs.cache
+C:\Users\israe\Downloads\CS-Atividade-Fiap--main\CS-Atividade-Fiap--main\Ex 5\obj\Debug\net8.0\Ex 5.AssemblyInfo.cs
+C:\Users\israe\Downloads\CS-Atividade-Fiap--main\CS-Atividade-Fiap--main\Ex 5\obj\Debug\net8.0\Ex 5.csproj.CoreCompileInputs.cache
+C:\Users\israe\Downloads\CS-Atividade-Fiap--main\CS-Atividade-Fiap--main\Ex 5\obj\Debug\net8.0\Ex 5.dll
+C:\Users\israe\Downloads\CS-Atividade-Fiap--main\CS-Atividade-Fiap--main\Ex 5\obj\Debug\net8.0\refint\Ex 5.dll
+C:\Users\israe\Downloads\CS-Atividade-Fiap--main\CS-Atividade-Fiap--main\Ex 5\obj\Debug\net8.0\Ex 5.pdb
+C:\Users\israe\Downloads\CS-Atividade-Fiap--main\CS-Atividade-Fiap--main\Ex 5\obj\Debug\net8.0\Ex 5.genruntimeconfig.cache
+C:\Users\israe\Downloads\CS-Atividade-Fiap--main\CS-Atividade-Fiap--main\Ex 5\obj\Debug\net8.0\ref\Ex 5.dll
